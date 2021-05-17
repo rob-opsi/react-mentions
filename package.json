@@ -58,7 +58,7 @@
     "less": "~2.3.1",
     "less-loader": "^2.2.0",
     "mocha": "^3.2.0",
-    "mversion": "^1.10.0",
+    "mversion": "^2.0.0",
     "radium": "^0.19.1",
     "react": "^15.3.2",
     "react-addons-test-utils": "^15.3.2",
